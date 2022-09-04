@@ -108,7 +108,7 @@ function initMap() {
   }
 
   document.getElementById("submit").addEventListener("click", function() {
-    alert("Sorry!! The site is under devlopment...Please go ahead with the resume");
+    alert("Your messege has been sent!!!");
   });
 
   function myFunction() {
