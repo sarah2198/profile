@@ -1,0 +1,28 @@
+/* Align icon to left */
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Position icon */
+#what .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+#contact .map {
+  flex: 2;
+}
+
+/*     <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvqgaL_1QKH63I-xCjCXcrD9P6YXvPjHE&callback=initMap&v=weekly"
+        async></script> 
+        
+            <span class="text-primary">
+                <i class="fas fa-angle-left fa-2x"></i>
+                <i class="fab fa-angular "></i>
+                <i class="fas fa-angle-right fa-2x"></i>
+            </span>
+            
+        */
